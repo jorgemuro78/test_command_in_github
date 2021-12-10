@@ -2,4 +2,4 @@ Hola comunidad BEDU
 
 Estamos aprendiendo git 
 
-Hoy
+Hoy veremos comandos git
